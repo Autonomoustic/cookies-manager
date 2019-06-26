@@ -1,0 +1,11 @@
+{
+  "name": "cookie-manager",
+  "version": "1.0.0",
+  "description": "lightweight cookie manager",
+  "main": "cookie-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

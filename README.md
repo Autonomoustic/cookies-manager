@@ -1,1 +1,2 @@
 # cookie-manager
+# cookies-manager
