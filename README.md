@@ -1,6 +1,5 @@
 # cookies-manager
 
-
 ![Licence](https://img.shields.io/github/license/autonomoustic/cookies-manager.svg)
 
 This library provides more useful interface to manage your cookies.
@@ -81,4 +80,4 @@ Getting a cookie with given cookie name
 ```
 
 ## Author and License
- Created and maintained by [Ali](https://github.com/Autonomoustic) under [MIT](LICENCE.md) licence
+ Created and maintained by [Ali](https://github.com/Autonomoustic) under [MIT](LICENCE.md) licence.
