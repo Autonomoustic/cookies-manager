@@ -6,7 +6,7 @@
 /**
  *
  *
- * cookie-manager.js
+ * cookie-manager.min.js
  * simple, easy and lightweight cookie management library
  * {26/06/2019} - version 1.0
  * {https://github.com/Autonomoustic/cookies-manager}

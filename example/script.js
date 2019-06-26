@@ -4,9 +4,6 @@
 
 window.onload = function() {
 
-  CookieManager.set('name', 'ali', 4);
-
-  console.log(CookieManager.clear());
-
+  CookieManager.set('cookie_name', 'cookie value', 3);
 
 };
