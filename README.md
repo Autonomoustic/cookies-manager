@@ -1,4 +1,4 @@
 # cookies-manager
 
 
-https://img.shields.io/github/license/autonomoustic/cookies-manager.svgg
+https://img.shields.io/github/license/autonomoustic/cookies-manager.svg
